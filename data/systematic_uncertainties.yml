@@ -1,0 +1,210 @@
+standard_uncertainties_hz:
+  B8_flux_e:      0.12
+  HEP_flux_e:     0.3
+  O15_flux_e:     0.17
+  F17_flux_e:     0.20
+  argon_upper:    0.5
+  argon_lower:    0.5
+  neutron:        0.2
+  radon:          0.2
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.56
+  cross_section:  0.1
+
+standard_uncertainties_lz:
+  B8_flux_e:      0.12
+  HEP_flux_e:     0.3
+  O15_flux_e:     0.16
+  F17_flux_e:     0.18
+  argon_upper:    0.24
+  argon_lower:    0.5
+  neutron:        0.2
+  radon:          0.2  
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.56
+  cross_section:  0.1
+
+standard_uncertainties_better_eReco_hz:
+  B8_flux_e:      0.12
+  HEP_flux_e:     0.3
+  O15_flux_e:     0.17
+  F17_flux_e:     0.20
+  argon_upper:    0.24
+  argon_lower:    0.5
+  neutron:        0.2
+  radon:          0.2
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.1
+  cross_section:  0.1  
+
+standard_uncertainties_better_eReco_lz:
+  B8_flux_e:      0.12
+  HEP_flux_e:     0.3
+  O15_flux_e:     0.16
+  F17_flux_e:     0.18
+  argon_upper:    0.24
+  argon_lower:    0.5
+  neutron:        0.2
+  radon:          0.2  
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.1
+  cross_section:  0.1  
+
+
+optimistic_uncertainties_hz:
+  B8_flux_e:      0.12
+  HEP_flux_e:     0.3
+  O15_flux_e:     0.17
+  F17_flux_e:     0.20
+  argon_upper:    0.01
+  argon_lower:    0.01
+  neutron:        0.01
+  radon:          0.01
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.05
+  cross_section:  0.05
+
+optimistic_uncertainties_lz:
+  B8_flux_e:      0.12
+  HEP_flux_e:     0.3
+  O15_flux_e:     0.16
+  F17_flux_e:     0.18
+  argon_upper:    0.01
+  argon_lower:    0.01
+  neutron:        0.01
+  radon:          0.01
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.05 
+  cross_section:  0.05
+
+better_boron_optimistic_uncertainties_hz:
+  B8_flux_e:      0.07
+  HEP_flux_e:     0.3
+  O15_flux_e:     0.17
+  F17_flux_e:     0.20
+  argon_upper:    0.01
+  argon_lower:    0.01
+  neutron:        0.01
+  radon:          0.01
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.04
+  cross_section:  0.05
+
+better_boron_optimistic_uncertainties_lz:
+  B8_flux_e:      0.07
+  HEP_flux_e:     0.3
+  O15_flux_e:     0.16
+  F17_flux_e:     0.18
+  argon_upper:    0.01
+  argon_lower:    0.01
+  neutron:        0.01
+  radon:          0.01
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.04
+  cross_section:  0.05  
+
+best_boron_uncertainties_hz:
+  B8_flux_e:      0.01
+  HEP_flux_e:     0.3
+  O15_flux_e:     0.17
+  F17_flux_e:     0.20
+  argon_upper:    0.01
+  argon_lower:    0.01
+  neutron:        0.01
+  radon:          0.01
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.01
+  cross_section:  0.05
+  
+best_boron_uncertainties_lz:
+  B8_flux_e:      0.01
+  HEP_flux_e:     0.3
+  O15_flux_e:     0.16
+  F17_flux_e:     0.18
+  argon_upper:    0.01
+  argon_lower:    0.01
+  neutron:        0.01
+  radon:          0.01
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.01
+  cross_section:  0.05
+
+best_uncertainties_hz:
+  B8_flux_e:      0.01
+  HEP_flux_e:     0.01
+  O15_flux_e:     0.17
+  F17_flux_e:     0.20
+  argon_upper:    0.01
+  argon_lower:    0.01
+  neutron:        0.01
+  radon:          0.01
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.01
+  cross_section:  0.03
+  
+best_uncertainties_lz:
+  B8_flux_e:      0.01
+  HEP_flux_e:     0.01
+  O15_flux_e:     0.16
+  F17_flux_e:     0.18
+  argon_upper:    0.01
+  argon_lower:    0.01
+  neutron:        0.01
+  radon:          0.01
+  Sur_prob_e:     0.02
+  trigger_e:      0.01
+  trigger2_e:     0.0
+  reconstruction: 0.01
+  cross_section:  0.03
+
+perfect_hz:
+  B8_flux_e:      0.00001
+  HEP_flux_e:     0.00001
+  O15_flux_e:     0.00001
+  F17_flux_e:     0.00001
+  argon_upper:    0.00001
+  argon_lower:    0.00001
+  neutron:        0.00001
+  radon:          0.00001
+  Sur_prob_e:     0.00001
+  trigger_e:      0.00001
+  trigger2_e:     0.00001
+  reconstruction: 0.00001
+  cross_section:  0.00001  
+
+perfect_lz:
+  B8_flux_e:      0.00001
+  HEP_flux_e:     0.00001
+  O15_flux_e:     0.00001
+  F17_flux_e:     0.00001
+  argon_upper:    0.00001
+  argon_lower:    0.00001
+  neutron:        0.00001
+  radon:          0.00001
+  Sur_prob_e:     0.00001
+  trigger_e:      0.00001
+  trigger2_e:     0.00001
+  reconstruction: 0.00001
+  cross_section:  0.00001    

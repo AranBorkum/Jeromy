@@ -1,0 +1,196 @@
+highZ_exp10kt_year:
+  systematic_uncertainties: "standard_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1"
+  background_reduction:     "1"
+  
+lowZ_exp10kt_year:
+  systematic_uncertainties: "standard_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1"
+  background_reduction:     "1"
+
+highZ_exp10kt_year_low_background:
+  systematic_uncertainties: "standard_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1"
+  background_reduction:     "1000"
+  
+lowZ_exp10kt_year_low_background:
+  systematic_uncertainties: "standard_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1"
+  background_reduction:     "1000"
+
+highZ_exp10kt_year_best:
+  systematic_uncertainties: "best_boron_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1"
+  background_reduction:     "1"
+  
+lowZ_exp10kt_year_best:
+  systematic_uncertainties: "best_boron_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1"
+  background_reduction:     "1"
+
+
+highZ_exp10kt_year_10xreduction:
+  systematic_uncertainties: "standard_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1"
+  background_reduction:     "10"
+  
+lowZ_exp10kt_year_10xreduction:
+  systematic_uncertainties: "standard_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1"
+  background_reduction:     "10"
+
+highZ_exp10kt_year_10xreduction_optimistic:
+  systematic_uncertainties: "optimistic_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1"
+  background_reduction:     "10"
+  
+lowZ_exp10kt_year_10xreduction_optimistic:
+  systematic_uncertainties: "optimistic_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1"
+  background_reduction:     "10"
+
+highZ_exp10kt_year_100xreduction:
+  systematic_uncertainties: "standard_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1"
+  background_reduction:     "100"
+  
+lowZ_exp10kt_year_100xreduction:
+  systematic_uncertainties: "standard_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1"
+  background_reduction:     "100"
+
+highZ_exp10kt_year_100xreduction_optimistic:
+  systematic_uncertainties: "optimistic_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1"
+  background_reduction:     "100"
+  
+lowZ_exp10kt_year_100xreduction_optimistic:
+  systematic_uncertainties: "optimistic_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1"
+  background_reduction:     "100"
+
+highZ_exp10kt_year_100xreduction_better_boron:
+  systematic_uncertainties: "better_boron_optimistic_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1"
+  background_reduction:     "100"
+  
+lowZ_exp10kt_year_100xreduction_better_boron:
+  systematic_uncertainties: "better_boron_optimistic_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1"
+  background_reduction:     "100"
+
+
+highZ_exp10kt_year_100xreduction_best_boron:
+  systematic_uncertainties: "best_boron_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1"
+  background_reduction:     "100"
+  
+lowZ_exp10kt_year_100xreduction_best_boron:
+  systematic_uncertainties: "best_boron_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1"
+  background_reduction:     "100"
+
+
+
+highZ_exp10kt_year_lowBackground:
+  systematic_uncertainties: "standard_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1" 
+  background_reduction:     "1000" 
+
+lowZ_exp10kt_year_lowBackground:
+  systematic_uncertainties: "standard_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1"
+  background_reduction:     "1000"
+
+highZ_exp1kt_year_lowBackground:
+  systematic_uncertainties: "standard_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "0.1" 
+  background_reduction:     "1000" 
+
+lowZ_exp1kt_year_lowBackground:
+  systematic_uncertainties: "standard_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "0.1"
+  background_reduction:     "1000"
+
+highZ_exp1kt_year_lowBackground_optimistic:
+  systematic_uncertainties: "optimistic_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "0.1" 
+  background_reduction:     "1000" 
+
+lowZ_exp1kt_year_lowBackground_optimistic:
+  systematic_uncertainties: "optimistic_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "0.1" 
+  background_reduction:     "1000" 
+
+highZ_exp10kt_year_lowBackground_optimistic:
+  systematic_uncertainties: "optimistic_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1" 
+  background_reduction:     "1000" 
+
+lowZ_exp10kt_year_lowBackground_optimistic:
+  systematic_uncertainties: "optimistic_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1" 
+  background_reduction:     "1000" 
+
+highZ_exp10kt_year_lowBackground_better_boron_optimistic:
+  systematic_uncertainties: "better_boron_optimistic_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1" 
+  background_reduction:     "1000" 
+
+lowZ_exp10kt_year_lowBackground_better_boron_optimistic:
+  systematic_uncertainties: "better_boron_optimistic_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1" 
+  background_reduction:     "1000" 
+
+highZ_exp10kt_year_lowBackground_best_boron_optimistic:
+  systematic_uncertainties: "best_boron_uncertainties_hz"
+  metallicity:              "high"
+  exposure:                 "1" 
+  background_reduction:     "1000" 
+
+lowZ_exp10kt_year_lowBackground_best_boron_optimistic:
+  systematic_uncertainties: "best_boron_uncertainties_lz"
+  metallicity:              "low"
+  exposure:                 "1" 
+  background_reduction:     "1000" 
+
+highZ_exp10kt_year_lowBackground_perfect:
+  systematic_uncertainties: "perfect_hz"
+  metallicity:              "high"
+  exposure:                 "1" 
+  background_reduction:     "1000" 
+
+lowZ_exp10kt_year_lowBackground_perfect:
+  systematic_uncertainties: "perfect_lz"
+  metallicity:              "low"
+  exposure:                 "1" 
+  background_reduction:     "1000" 
+
